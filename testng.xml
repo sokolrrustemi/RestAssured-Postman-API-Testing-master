@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test name="Main Test ">
+        <classes>
+            <class name="campus.US001"></class>
+            <class name="campus.US002"></class>
+            <class name="campus.US101"></class>
+            <class name="campus.US102"></class>
+            <class name="campus.US103"></class>
+            <class name="campus.US104"></class>
+            <class name="campus.US105"></class>
+            <class name="campus.US106"></class>
+            <class name="campus.US107"></class>
+            <class name="campus.US108"></class>
+            <class name="campus.US109"></class>
+            <class name="campus.US110"></class>
+        </classes>
+    </test>
+</suite>
